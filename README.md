@@ -1,6 +1,8 @@
 # uts_06tplm002_221011401020
 
-A new Flutter project.
+Documentation:
+
+![Screenshot Aplikasi](./assets/images/Screenshot_20250509_171130.jpg)
 
 ## Getting Started
 
